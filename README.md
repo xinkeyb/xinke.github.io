@@ -1,1 +1,1 @@
-# my-first
+This is my first time contact GitHub.
